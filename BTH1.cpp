@@ -91,7 +91,6 @@ void HienThiDS(TRO L) {
 
 int main(){
     TRO L;
-    
     NhapDS(L);
     HienThiDS(L);
 }
